@@ -13,3 +13,4 @@ Os principais objetivos deste projeto são:
 ## Ferramentas Utilizadas
 
 - Power BI
+![image](https://github.com/user-attachments/assets/e48a62eb-8b8b-42ee-9f53-99429185cbf9)
